@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickNCheck", "ClickNCheck\ClickNCheck.csproj", "{E70C7A90-5ED1-4929-BB2F-DDF0B695085D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70C7A90-5ED1-4929-BB2F-DDF0B695085D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70C7A90-5ED1-4929-BB2F-DDF0B695085D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70C7A90-5ED1-4929-BB2F-DDF0B695085D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70C7A90-5ED1-4929-BB2F-DDF0B695085D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F169571-4670-4BEF-9E15-426C0109E806}
+	EndGlobalSection
+EndGlobal
