@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=clickn9104;AccountKey=IM0g5FIXAL8LakqQ8u4yGh/FIWz/w2AytB9ZeKiVsA/C6Ur+ZFXu1JiaBrQ1hZdZwMj0ZsMaY6Bwev9upq89xQ==;BlobEndpoint=https://clickn9104.blob.core.windows.net/;TableEndpoint=https://clickn9104.table.core.windows.net/;QueueEndpoint=https://clickn9104.queue.core.windows.net/;FileEndpoint=https://clickn9104.file.core.windows.net/",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=clickn9104;AccountKey=IM0g5FIXAL8LakqQ8u4yGh/FIWz/w2AytB9ZeKiVsA/C6Ur+ZFXu1JiaBrQ1hZdZwMj0ZsMaY6Bwev9upq89xQ==;BlobEndpoint=https://clickn9104.blob.core.windows.net/;TableEndpoint=https://clickn9104.table.core.windows.net/;QueueEndpoint=https://clickn9104.queue.core.windows.net/;FileEndpoint=https://clickn9104.file.core.windows.net/"
+  },
+  "connectionStrings": {
+    "mycs": {
+      "ConnectionString": "Server=tcp:clickncheck.database.windows.net,1433;Initial Catalog=DummyModel;Persist Security Info=False;User ID=kudzai;Password=Muranga001_;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    }
+  }
+}
