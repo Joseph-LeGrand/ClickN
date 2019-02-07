@@ -7,7 +7,7 @@
   "connectionStrings": {
     "mycs": {
       "ConnectionString": "Server=tcp:clickncheck.database.windows.net,1433;Initial Catalog=DummyModel;Persist Security Info=False;User ID=kudzai;Password=Muranga001_;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
-      "providerName": "System.Data.SqlClient"
+      "ProviderName": "System.Data.SqlClient"
 
     }
   }
