@@ -13,7 +13,7 @@ namespace ClickNCheck
     public static class Register
     {
         [FunctionName("Register")]
-        public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Anonymous, "post", Route ="api/DummyModels/users/register")]HttpRequestMessage req, TraceWriter log)
+        public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Anonymous, "post", Route ="DummyModels/users/register")]HttpRequestMessage req, TraceWriter log)
         {
             log.Info("Received a registration request.");
             HttpResponseMessage response=null;
